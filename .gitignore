@@ -1,0 +1,6 @@
+.DS_Store
+*.o
+*~
+*.dSYM
+xcuserdata
+project.xcworkspace
